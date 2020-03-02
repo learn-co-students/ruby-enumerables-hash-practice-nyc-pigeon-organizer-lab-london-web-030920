@@ -18,10 +18,10 @@ pigeon_hash[name][key] << new_value.to_s
   end
   
 end
-pigeon_hash
+
 end
 
-  
+  pigeon_hash
 
 
 end
